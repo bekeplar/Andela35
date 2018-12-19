@@ -1,6 +1,10 @@
 # Andela35 TRAINING REPO
 This repo is to help learners easily follow along during the session.
 
+[![Build Status](https://travis-ci.org/bekeplar/Andela35.svg?branch=deploy)](https://travis-ci.org/bekeplar/Andela35)
+[![Coverage Status](https://coveralls.io/repos/github/bekeplar/Andela35/badge.svg?branch=deploy)](https://coveralls.io/github/bekeplar/Andela35?branch=deploy)
+[![Maintainability](https://api.codeclimate.com/v1/badges/70cbe62e6e41f7501fe5/maintainability)](https://codeclimate.com/github/bekeplar/Andela35/maintainability)
+
 ## GETTING STARTED
 * Clone this repo using 
 
