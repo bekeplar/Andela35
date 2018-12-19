@@ -1,5 +1,5 @@
-from flask import Flask, jsonify, request
 import json
+from flask import Flask, jsonify, request
 from api.models import Users
 from db import DatabaseConnection
 from flask_jwt_extended import create_access_token, JWTManager, jwt_required, get_jwt_identity
